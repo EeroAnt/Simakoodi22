@@ -1,0 +1,46 @@
+{
+    "user": {
+        "Eero": [
+            [
+                "Linis"
+            ],
+            [
+                [
+                    "Linis",
+                    1,
+                    2
+                ],
+                [
+                    "Linis",
+                    1,
+                    3
+                ]
+            ],
+            {
+                "Linis": {
+                    "1": {
+                        "2": "oikea vastaus",
+                        "3": "v\u00e4\u00e4r\u00e4 vastaus"
+                    }
+                }
+            }
+        ]
+    },
+    "courses": {
+        "Linis": {
+            "1": {
+                "2": [
+                    "oikea vastaus"
+                ],
+                "3": [
+                    "v\u00e4\u00e4r\u00e4 vastaus"
+                ]
+            },
+            "2": {},
+            "3": {},
+            "4": {},
+            "5": {},
+            "6": {}
+        }
+    }
+}
